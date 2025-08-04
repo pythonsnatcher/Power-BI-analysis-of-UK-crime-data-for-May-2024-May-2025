@@ -5,7 +5,13 @@
 This project analyzes UK street-level crime data for **May 2024** and **May 2025**, focusing on the top 10 police forces by population. The dashboard was built in **Power BI Desktop** using **Power Query (M)** for data transformation and **DAX** for custom metrics.
 
 ---
+![Dashboard 1](screenshots/1.png)
+![Dashboard 2](screenshots/2.png)
+![Visual](screenshots/3.png)
 
+
+
+---
 ## 🔍 Objectives
 
 - Load only relevant monthly data from the Police API export folders
